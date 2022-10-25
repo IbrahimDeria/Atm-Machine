@@ -1,2 +1,3 @@
 # Atm-Machine
-Virtual Atm Machine that lets users deposit, withdraw, and send money. All transactions, accounts, and balances are stored in a database.
+Virtual Atm Machine that lets users deposit and withdraw money. Users can also send money to other accounts as well. All transactions, accounts, and balances are stored in a database.
+
